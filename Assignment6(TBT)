@@ -1,4 +1,4 @@
-Problem Statement :Implement In-order Threaded Binary Tree and traverse it in In-order and Pre-order.*/
+//Problem Statement :Implement In-order Threaded Binary Tree and traverse it in In-order and Pre-order.
 #include<iostream>
 using namespace std;
 class node
