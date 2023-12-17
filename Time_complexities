@@ -1,0 +1,19 @@
++---------------------------+-------------------+
+| Algorithm/Data Structure  | Time Complexity   |
++---------------------------+-------------------+
+| Bubble Sort               | O(n^2)            |
+| Selection Sort            | O(n^2)            |
+| Insertion Sort            | O(n^2)            |
+| Merge Sort                | O(n log n)        |
+| Quick Sort                | O(n log n) (avg), O(n^2) (worst) |
+| Heap Sort                 | O(n log n)        |
+| Linear Search             | O(n)              |
+| Binary Search             | O(log n)          |
+| Arrays                    | O(1) (Access), O(n) (Search), O(1) (Insert/Deletion at end), O(n) (Insert/Deletion at arbitrary position) |
+| Linked Lists              | O(n) (Access/Search), O(1) (Insert/Deletion at beginning), O(n) (Insert/Deletion at arbitrary position) |
+| Stacks and Queues         | O(1) (Access/Search/Insertion/Deletion) |
+| Hash Tables (Avg. Case)   | O(1) (Search/Insert/Delete) |
+| Binary Search Tree        | O(log n) (avg), O(n) (worst) for Search/Insert/Delete |
+| Heaps                     | O(log n) (Insertion/Extraction of min/max) |
+| Graphs (Adjacency List)   | O(V + E) (Search/Insert/Delete) |
++---------------------------+-------------------+
